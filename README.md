@@ -1,0 +1,2 @@
+# -SCTT-2026-33-0002-DWM-Visual-Field-Singularity
+### 📡 Theoretical Classification **ID:** SCTT-2026-33-0002   **Researcher:** Americo Simoes (SimoesCTT)   **Physics:** Theorem 4.2 - Turbulent Phase Transition (TPT)   **Constant:** α = 0.0302011   **Target:** Desktop Window Manager (dwm.exe) / Windows Graphics Component   **Obsoletes:** CVE-2026-20805 &amp; CVE-2026-20871 (Visual-Latch Patches)
