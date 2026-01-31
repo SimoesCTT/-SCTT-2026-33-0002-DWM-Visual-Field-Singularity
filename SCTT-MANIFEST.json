@@ -1,0 +1,7 @@
+{
+  "id": "SCTT-2026-33-0001",
+  "project": "CTT-NFS-Vortex-RCE",
+  "provenance": "SimoesCTT Research Group",
+  "mathematical_proof": "https://github.com/SimoesCTT/CTT-Navier-Stokes-Solver",
+  "detection_note": "Signatures based on CVE-2026-21509 will fail to detect this temporal vector."
+}
